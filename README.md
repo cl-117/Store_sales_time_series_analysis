@@ -1,6 +1,6 @@
 # Store_sales_time_series_analysis
 
-Dataset is derived by https://www.kaggle.com/competitions/store-sales-time-series-forecasting. It is too large to upload to github. 
+Dataset is derived by https://www.kaggle.com/competitions/store-sales-time-series-forecasting. The training data is too large to upload to github. 
 
 A simple timeseries analysis of Ecuador store sales from 2013-2017.
 
