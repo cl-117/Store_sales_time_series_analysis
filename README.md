@@ -14,4 +14,4 @@ The timeseries analysis is broken up into a few parts.
 * Seasonality
 * Cyclicity 
 ## Conclusion
-* A few inferences
+* Inference on sales
